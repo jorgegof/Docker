@@ -48,6 +48,7 @@ apt-cache search mysql | grep mysql-server
 SET PASSWORD FOR 'user-name'@'localhost' = PASSWORD('NEW_USER_PASSWORD');FLUSH PRIVILEGES;
 mysql -u user-name -h localhost -p
 
+SHOW DATABASES;
 DROP DATABASE name;
 
 INSTALEI O KAMAILIO NO HOST? 5060:5060/udp 5060:5060/tcp
