@@ -56,3 +56,7 @@ INSTALEI O KAMAILIO NO HOST? 5060:5060/udp 5060:5060/tcp
 docker run -it --net=host "imagem"
 
 apt-get install default-libmysqlclient-dev
+
+jorge.filho@academico.ifpb.edu.br	
+
+Dw79825
